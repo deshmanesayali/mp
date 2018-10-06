@@ -18,11 +18,26 @@ class csv{
     }
 }
 
-class record{
+class record
+{
+    public function __construct(Array $fields = null, Array $values = null)
+    {
 
+        $record = array_combine($fields, $values);
+
+        foreach ($record as $property => $value) {
+            $this->createProperty($property, $value);
+        }
+    }
 }
 
 class recordFactory{
+    public static function create(Array $fields = null,Array $values = null)
+    {
+        $record = new record($fields,$values);
+
+        return $record;
+    }
 
 }
 
