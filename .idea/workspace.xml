@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0627135b-fc2e-491d-9750-cf5fe1c3e3af" name="Default Changelist" comment="Task: added code to html">
+    <list default="true" id="0627135b-fc2e-491d-9750-cf5fe1c3e3af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
     </list>
@@ -42,7 +42,7 @@
         <counts>
           <entry key="json" value="5" />
           <entry key="md" value="33" />
-          <entry key="php" value="235" />
+          <entry key="php" value="237" />
           <entry key="procfile" value="200" />
           <entry key="txt" value="202" />
         </counts>
@@ -51,7 +51,7 @@
         <counts>
           <entry key="JSON" value="5" />
           <entry key="Markdown" value="33" />
-          <entry key="PHP" value="235" />
+          <entry key="PHP" value="237" />
           <entry key="PLAIN_TEXT" value="402" />
         </counts>
       </usages-collector>
@@ -75,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
-              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -195,7 +195,7 @@
       <option name="presentableId" value="Default" />
       <updated>1538859188777</updated>
       <workItem from="1538859190285" duration="6917000" />
-      <workItem from="1538866681225" duration="3207000" />
+      <workItem from="1538866681225" duration="3347000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Initial commit">
       <created>1538860154277</created>
@@ -309,11 +309,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538869722770</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Task: added code to html">
+      <created>1538870051032</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1538870051032</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10124000" />
+    <option name="totallyTimeSpent" value="10264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -416,7 +423,7 @@
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
         </state>
       </provider>
     </entry>
