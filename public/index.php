@@ -17,6 +17,15 @@ class csv{
 
     }
 }
+
+class record{
+
+}
+
+class recordFactory{
+
+}
+
 class html{
     static public function generateTable(){
 
@@ -25,6 +34,6 @@ class html{
 
 class system{
     static public function Printpage(){
-        
+
     }
 }
