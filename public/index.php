@@ -41,9 +41,26 @@ class recordFactory{
 
 }
 
-class html{
-    static public function generateTable(){
-
+class html
+{
+    static public function generateTable($records)
+    {
+        $count = 0;
+        foreach ($records as $record) {
+            if ($count == 0) {
+                $array = $record->ReturnArray();
+                $fields = array_keys($array);
+                $values = array_values($array);
+                print_r($fields);
+                print_r($values);
+            } else {
+                $array = $record->ReturnArray();
+                $value = array_values($array);
+                print_r($value);
+            }
+            $count++;
+        }
+        return $records;
     }
 }
 
