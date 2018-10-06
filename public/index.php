@@ -47,6 +47,14 @@ class record
             $this->createProperty($property, $value);
         }
     }
+
+    public function createProperty($property,$value)
+    {
+        $this->{$property} = $value;
+        $property = '<th>' .$property.'</th>';
+        $value = '<td>' .$value.'</td>';
+    }
+
 }
 
 class recordFactory{
