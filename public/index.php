@@ -8,8 +8,11 @@
 main:: start("project.csv");
 class main
 {
-    static public function start(){
-
+    static public function start($filename)
+    {
+        $records = csv::getRecords($filename);
+        $table = html::createTable($records);
+        system:: Printpage($table);
     }
 }
 class csv
