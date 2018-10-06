@@ -6,3 +6,4 @@
  * Time: 1:57 PM
  */
 echo 'test';
+echo 'hi';
