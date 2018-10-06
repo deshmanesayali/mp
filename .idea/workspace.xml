@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0627135b-fc2e-491d-9750-cf5fe1c3e3af" name="Default Changelist" comment="">
+    <list default="true" id="0627135b-fc2e-491d-9750-cf5fe1c3e3af" name="Default Changelist" comment="Task: added code to html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
     </list>
@@ -42,17 +42,17 @@
         <counts>
           <entry key="json" value="5" />
           <entry key="md" value="33" />
-          <entry key="php" value="230" />
+          <entry key="php" value="235" />
           <entry key="procfile" value="200" />
-          <entry key="txt" value="165" />
+          <entry key="txt" value="202" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="5" />
           <entry key="Markdown" value="33" />
-          <entry key="PHP" value="230" />
-          <entry key="PLAIN_TEXT" value="365" />
+          <entry key="PHP" value="235" />
+          <entry key="PLAIN_TEXT" value="402" />
         </counts>
       </usages-collector>
     </session>
@@ -75,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
             </state>
           </provider>
         </entry>
@@ -195,7 +195,7 @@
       <option name="presentableId" value="Default" />
       <updated>1538859188777</updated>
       <workItem from="1538859190285" duration="6917000" />
-      <workItem from="1538866681225" duration="2794000" />
+      <workItem from="1538866681225" duration="3207000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Initial commit">
       <created>1538860154277</created>
@@ -295,11 +295,25 @@
       <option name="project" value="LOCAL" />
       <updated>1538869363447</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Task: added code to record and recordFactory">
+      <created>1538869646708</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1538869646708</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Task: added code to html">
+      <created>1538869722769</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1538869722770</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9711000" />
+    <option name="totallyTimeSpent" value="10124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -367,7 +381,9 @@
     <MESSAGE value="Task: added classes main, csv, html and system" />
     <MESSAGE value="Task: added classes record and recordFactory" />
     <MESSAGE value="Task: added file project.csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: added file project.csv" />
+    <MESSAGE value="Task: added code to record and recordFactory" />
+    <MESSAGE value="Task: added code to html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added code to html" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/readme.md">
@@ -400,7 +416,7 @@
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
         </state>
       </provider>
     </entry>
