@@ -5,7 +5,7 @@
  * Date: 10/6/2018
  * Time: 1:57 PM
  */
-main:: start("csv_project.csv");
+main:: start("project.csv");
 class main
 {
     static public function start(){
