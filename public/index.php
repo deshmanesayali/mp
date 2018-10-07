@@ -119,7 +119,9 @@ class html
 
 
 class system{
-    static public function Printpage(){
-
+    static public function Printpage($page)
+    {
+        echo $page;
     }
+
 }
